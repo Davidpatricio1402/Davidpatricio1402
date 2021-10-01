@@ -72,59 +72,42 @@ These are some technologies I learned how to use at school or at home.
 ---
 
 ### Game Consoles
-<img alt="Playstation" src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"><img alt="Playstation 3" src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"><img alt="Playstation 4" src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white">
+<img alt="Playstation" src="https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white"/><img alt="Playstation 3" src="https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white"/><img alt="Playstation 4" src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white"/>
 
 ---
 
 ### Cloud Storage
-<img alt="Dropbox" src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white"><img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"><img alt="Mega.nz	" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white">
+<img alt="Dropbox" src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white"/><img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/><img alt="Mega.nz	" src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white"/>
 
 ---
 
 ### Store
-<img alt="App Store	" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"><img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">
+<img alt="App Store	" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/><img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 
 ---
 
 ### Streaming
-<img alt="Amazon Prime" src="https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white"><img alt="Facebook Gaming" src="https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white"><img alt="Facebook Live" src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white"><img alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white"><img alt="Youtube Gaming" src="https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
+<img alt="Amazon Prime" src="https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white"/><img alt="Facebook Gaming" src="https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white"/><img alt="Facebook Live" src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white"/><img alt="Netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"/><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white"/><img alt="Youtube Gaming" src="https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white"/>
 
 ---
 
 ### Music
-<img alt="Deezer" src"https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"><img alt="Sound Cloud" src"https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"><img alt="Spotify" src"https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"><img alt="Shazam" src"https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white">
+<img alt="Deezer" src"https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/><img alt="Sound Cloud" src"https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/><img alt="Spotify" src"https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/><img alt="Shazam" src"https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white"/>
 
 ---
 
 ### Funding
-<img alt="PayPal" src"https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+<img alt="PayPal" src"https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
 
 ---
 
 ### Operating System
-<img alt="Android" src"https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img alt="Arch" src"https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
-<img alt="Cent OS	" src"https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
-<img alt="Debian" src"https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
-<img alt="Fedora" src"https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-<img alt="IOS" src"https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-<img alt="Kali" src"https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img alt="Linux" src"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img alt="Linux Mint" src"https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
-<img alt="Manjaro" src"https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
-<img alt="Mac Os" src"https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
-<img alt="Red Hat" src"https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
-<img alt="Suse" src"https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white">
-<img alt="Ubuntu" src"https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img alt="Windows" src"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img alt="Windows 95" src"https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white">
-<img alt="Windows XP" src"https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white">
+<img alt="Android" src"https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/><img alt="Arch" src"https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/><img alt="Cent OS	" src"https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/><img alt="Debian" src"https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/><img alt="Fedora" src"https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/><img alt="IOS" src"https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/><img alt="Kali" src"https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/><img alt="Linux" src"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img alt="Linux Mint" src"https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/><img alt="Manjaro" src"https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white"/><img alt="Mac Os" src"https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/><img alt="Red Hat" src"https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/><img alt="Suse" src"https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white"/><img alt="Ubuntu" src"https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/><img alt="Windows" src"https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img alt="Windows 95" src"https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white"/><img alt="Windows XP" src"https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white"/>
 
 ---
 
 ### Browsers
-<img alt="Brave" src"https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
-<img alt="Edge" src"https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
+<img alt="Brave" src"https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"/><img alt="Edge" src"https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
 
 
 
