@@ -92,7 +92,7 @@ These are some technologies I learned how to use at school or at home.
 ---
 
 ### Music
-<img alt="Deezer" src"https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/><img alt="Sound Cloud" src"https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/><img alt="Spotify" src"https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/><img alt="Shazam" src"https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white"/>
+<img alt="Deezer" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white"/><img alt="Sound Cloud" src="https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"/><img alt="Spotify" src"https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/><img alt="Shazam" src"https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white"/>
 
 ---
 
