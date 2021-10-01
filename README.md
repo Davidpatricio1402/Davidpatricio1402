@@ -1,6 +1,7 @@
+
 Hi my name is David Patrício, im a student of Management and Programming of Computer Systems, in the third year of the course (3/3).
 Im from Portugal and I have 16 years old.
----
+
 These are some technologies I learned how to use at school or at home.
 
 ---
