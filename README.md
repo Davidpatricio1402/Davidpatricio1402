@@ -2,6 +2,7 @@ Hi my name is David Patrício, im a student of Management and Programming of Com
 Im from Portugal and I have 16 years old.
 ---
 📫 How to reach me: <img alt="Discord" width="16" height="16" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png"/> Bôda#7802 / <img alt="Email" width="16" height="16" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/> david17patricio@gmail.com
+<br>
 This my portfolio: davidpatricio1402.github.io
 ---
 These are some technologies I learned how to use at school or at home.
